@@ -10,7 +10,7 @@ import java.io.Serializable;
 /**
  * 流程实例作废请求对象
  *
- * @author may
+ *
  */
 @Data
 public class ProcessInvalidBo implements Serializable {

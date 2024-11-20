@@ -7,7 +7,7 @@ import org.apache.rocketmq.spring.core.RocketMQListener;
 import org.springframework.stereotype.Component;
 
 /**
- * @author xbhog
+ *
  * @date 2024/06/01 16:53
  **/
 @Slf4j

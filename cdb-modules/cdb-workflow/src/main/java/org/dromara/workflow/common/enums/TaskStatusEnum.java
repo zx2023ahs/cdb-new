@@ -10,7 +10,7 @@ import java.util.Arrays;
 /**
  * 任务状态枚举
  *
- * @author may
+ *
  */
 @Getter
 @AllArgsConstructor

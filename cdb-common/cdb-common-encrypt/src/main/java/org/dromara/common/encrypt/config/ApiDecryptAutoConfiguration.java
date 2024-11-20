@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * api 解密自动配置
  *
- * @author wdhcr
+ *
  */
 @AutoConfiguration
 @EnableConfigurationProperties(ApiDecryptProperties.class)

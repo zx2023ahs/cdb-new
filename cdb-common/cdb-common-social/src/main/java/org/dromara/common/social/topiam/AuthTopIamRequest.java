@@ -21,7 +21,6 @@ import static org.dromara.common.social.topiam.AuthTopiamSource.TOPIAM;
 /**
  * TopIAM 认证请求
  *
- * @author xlsea
  * @since 2024-01-06
  */
 @Slf4j

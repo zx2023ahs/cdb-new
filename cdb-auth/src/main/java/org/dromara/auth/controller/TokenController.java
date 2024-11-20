@@ -50,7 +50,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * token 控制
  *
- * @author Lion Li
+ *
  */
 @Slf4j
 @RequiredArgsConstructor

@@ -35,9 +35,6 @@ import java.time.ZoneId;
 /**
  * Console config.
  *
- * @author yshen
- * @author nkorange
- * @since 1.2.0
  */
 @Component
 @EnableScheduling

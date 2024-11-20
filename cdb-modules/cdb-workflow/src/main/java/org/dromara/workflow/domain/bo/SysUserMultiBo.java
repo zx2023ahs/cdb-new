@@ -9,7 +9,7 @@ import java.io.Serializable;
 /**
  * 用户加签查询
  *
- * @author may
+ *
  */
 @Data
 public class SysUserMultiBo implements Serializable {

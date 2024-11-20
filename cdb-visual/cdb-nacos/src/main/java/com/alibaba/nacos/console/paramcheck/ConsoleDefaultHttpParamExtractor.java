@@ -27,7 +27,6 @@ import java.util.List;
 /**
  * Console default http param extractor.
  *
- * @author zhuoguang
  */
 public class ConsoleDefaultHttpParamExtractor extends AbstractHttpParamExtractor {
 

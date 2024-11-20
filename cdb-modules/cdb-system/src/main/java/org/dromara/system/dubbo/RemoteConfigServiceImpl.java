@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 /**
  * 配置服务
  *
- * @author Michelle.Chung
+ *
  */
 @RequiredArgsConstructor
 @Service

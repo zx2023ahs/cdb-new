@@ -11,7 +11,7 @@ import java.io.Serializable;
 /**
  * 删除执行数据
  *
- * @author may
+ *
  */
 public class DeleteExecutionCmd implements Command<Void>, Serializable {
 

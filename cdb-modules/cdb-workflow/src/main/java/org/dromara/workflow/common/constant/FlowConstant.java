@@ -4,7 +4,7 @@ package org.dromara.workflow.common.constant;
 /**
  * 工作流常量
  *
- * @author may
+ *
  */
 public interface FlowConstant {
 

@@ -41,7 +41,7 @@ import java.util.List;
 /**
  * 用户信息
  *
- * @author Lion Li
+ *
  */
 @Validated
 @RequiredArgsConstructor

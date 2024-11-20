@@ -35,7 +35,6 @@ import java.util.Optional;
 /**
  * 第三方授权策略
  *
- * @author thiszhc is 三三
  */
 @Slf4j
 @Service("social" + IAuthStrategy.BASE_NAME)

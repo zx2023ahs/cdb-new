@@ -38,8 +38,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * Flow rule controller.
  *
- * @author leyou
- * @author Eric Zhao
+ *
+ *
  */
 @RestController
 @RequestMapping(value = "/v1/flow")

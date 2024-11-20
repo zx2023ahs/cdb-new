@@ -6,7 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * WebSocket 配置项
  *
- * @author zendwang
+ *
  */
 @ConfigurationProperties("websocket")
 @Data

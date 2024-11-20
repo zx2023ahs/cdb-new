@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 流程实例请求对象
  *
- * @author may
+ *
  */
 @Data
 public class ProcessInstanceBo implements Serializable {

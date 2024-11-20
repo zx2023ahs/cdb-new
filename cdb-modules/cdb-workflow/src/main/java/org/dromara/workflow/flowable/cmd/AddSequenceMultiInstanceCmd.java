@@ -16,7 +16,7 @@ import static org.dromara.workflow.common.constant.FlowConstant.NUMBER_OF_INSTAN
 /**
  * 串行加签
  *
- * @author may
+ *
  */
 public class AddSequenceMultiInstanceCmd implements Command<Void> {
 

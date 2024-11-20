@@ -10,7 +10,7 @@ import java.io.Serializable;
 /**
  * 终止任务请求对象
  *
- * @author may
+ *
  */
 @Data
 public class TerminationBo implements Serializable {

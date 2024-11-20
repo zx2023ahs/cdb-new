@@ -16,7 +16,7 @@ import org.springframework.context.annotation.Bean;
 import java.util.List;
 
 /**
- * @author Lion Li
+ *
  */
 @AutoConfiguration(before = SentinelAutoConfiguration.class)
 @EnableConfigurationProperties({SentinelProperties.class, SentinelCustomProperties.class})

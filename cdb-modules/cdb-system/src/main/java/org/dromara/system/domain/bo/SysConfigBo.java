@@ -12,7 +12,7 @@ import org.dromara.system.domain.SysConfig;
 /**
  * 参数配置业务对象 sys_config
  *
- * @author Michelle.Chung
+ *
  */
 
 @Data

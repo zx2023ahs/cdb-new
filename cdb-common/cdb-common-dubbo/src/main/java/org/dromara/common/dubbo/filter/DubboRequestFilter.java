@@ -24,7 +24,7 @@ import org.dromara.common.json.utils.JsonUtils;
  * <p>
  * 使用 Lombok 的 @Slf4j 注解简化日志记录
  *
- * @author Lion Li
+ *
  */
 @Slf4j
 @Activate(group = {CommonConstants.PROVIDER, CommonConstants.CONSUMER}, order = Integer.MAX_VALUE)

@@ -31,7 +31,7 @@ import org.springframework.stereotype.Service;
 /**
  * 密码认证策略
  *
- * @author Michelle.Chung
+ *
  */
 @Slf4j
 @Service("password" + IAuthStrategy.BASE_NAME)

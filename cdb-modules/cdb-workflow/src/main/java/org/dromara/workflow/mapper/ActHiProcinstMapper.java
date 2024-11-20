@@ -7,7 +7,7 @@ import org.dromara.workflow.domain.ActHiProcinst;
 /**
  * 流程实例Mapper接口
  *
- * @author may
+ *
  * @date 2023-07-22
  */
 @InterceptorIgnore(tenantLine = "true")

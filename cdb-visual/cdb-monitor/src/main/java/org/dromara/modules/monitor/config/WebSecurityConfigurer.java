@@ -15,7 +15,7 @@ import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 /**
  * admin 监控 安全配置
  *
- * @author Lion Li
+ *
  */
 @EnableWebSecurity
 @Configuration

@@ -6,7 +6,7 @@ import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;
 
 /**
- * @author xbhog
+ *
  * @date 2024/05/19 18:02
  **/
 @Slf4j

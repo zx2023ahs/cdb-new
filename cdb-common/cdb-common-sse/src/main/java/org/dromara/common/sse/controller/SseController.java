@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * SSE 控制器
  *
- * @author Lion Li
+ *
  */
 @RestController
 @ConditionalOnProperty(value = "sse.enabled", havingValue = "true")

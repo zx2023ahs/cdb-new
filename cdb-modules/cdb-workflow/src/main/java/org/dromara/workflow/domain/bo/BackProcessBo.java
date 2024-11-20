@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 驳回参数请求
  *
- * @author may
+ *
  */
 @Data
 public class BackProcessBo implements Serializable {

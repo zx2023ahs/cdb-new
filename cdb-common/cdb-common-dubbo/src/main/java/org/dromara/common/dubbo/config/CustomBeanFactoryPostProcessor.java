@@ -13,7 +13,7 @@ import java.net.InetAddress;
 /**
  * dubbo自定义IP注入(避免IP不正确问题)
  *
- * @author Lion Li
+ *
  */
 public class CustomBeanFactoryPostProcessor implements BeanFactoryPostProcessor, Ordered {
 

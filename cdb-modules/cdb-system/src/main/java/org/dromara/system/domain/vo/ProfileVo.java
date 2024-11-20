@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 用户个人信息
  *
- * @author Michelle.Chung
+ *
  */
 @Data
 public class ProfileVo implements Serializable {

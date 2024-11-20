@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 用户头像信息
  *
- * @author Michelle.Chung
+ *
  */
 @Data
 public class AvatarVo implements Serializable {

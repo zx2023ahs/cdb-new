@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * 租户列表
  *
- * @author zhujie
+ *
  */
 @Data
 public class TenantListVo {

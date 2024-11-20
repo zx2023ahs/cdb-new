@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 消息类型枚举
  *
- * @author may
+ *
  */
 @Getter
 @AllArgsConstructor

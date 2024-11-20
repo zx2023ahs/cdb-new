@@ -27,9 +27,6 @@ import java.util.*;
 /**
  * Class to generate an image based the diagram interchange information in a BPMN 2.0 process.
  *
- * @author Joram Barrez
- * @author Tijs Rademakers
- * @author Zheng Ji
  */
 public class CustomDefaultProcessDiagramGenerator implements ProcessDiagramGenerator {
 

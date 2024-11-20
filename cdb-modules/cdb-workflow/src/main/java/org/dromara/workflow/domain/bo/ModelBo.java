@@ -13,7 +13,7 @@ import java.io.Serializable;
 /**
  * 模型请求对象
  *
- * @author may
+ *
  */
 @Data
 public class ModelBo implements Serializable {

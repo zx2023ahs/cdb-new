@@ -5,7 +5,7 @@ import java.io.Serial;
 /**
  * 验证码错误异常类
  *
- * @author Lion Li
+ *
  */
 public class CaptchaException extends UserException {
     @Serial

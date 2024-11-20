@@ -12,7 +12,7 @@ import jakarta.validation.constraints.*;
 /**
  * 节点配置业务对象 wf_node_config
  *
- * @author may
+ *
  * @date 2024-03-30
  */
 @Data

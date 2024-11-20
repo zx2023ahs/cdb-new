@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 节点配置Service接口
  *
- * @author may
+ *
  * @date 2024-03-30
  */
 public interface IWfNodeConfigService {

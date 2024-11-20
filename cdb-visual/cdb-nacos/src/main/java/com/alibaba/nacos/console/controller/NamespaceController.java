@@ -44,7 +44,6 @@ import java.util.regex.Pattern;
 /**
  * namespace service.
  *
- * @author Nacos
  */
 @RestController
 @RequestMapping("/v1/console/namespaces")

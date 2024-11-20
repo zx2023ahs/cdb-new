@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 /**
  * 邮件服务
  *
- * @author Lion Li
+ *
  */
 @Slf4j
 @RequiredArgsConstructor

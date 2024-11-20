@@ -12,7 +12,7 @@ import java.util.Date;
 /**
  * 流程实例对象 act_hi_procinst
  *
- * @author may
+ *
  * @date 2023-07-22
  */
 @Data

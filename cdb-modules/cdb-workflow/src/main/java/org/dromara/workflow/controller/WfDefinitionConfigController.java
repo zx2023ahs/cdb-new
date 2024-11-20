@@ -19,7 +19,7 @@ import org.dromara.workflow.service.IWfDefinitionConfigService;
 /**
  * 流程定义配置
  *
- * @author may
+ *
  * @date 2024-03-18
  */
 @Validated

@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 流程变量
  *
- * @author may
+ *
  */
 @Data
 public class VariableVo implements Serializable {

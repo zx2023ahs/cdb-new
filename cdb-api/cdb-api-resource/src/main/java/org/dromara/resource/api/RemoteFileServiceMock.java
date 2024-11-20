@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 文件服务(降级处理)
  *
- * @author Lion Li
+ *
  */
 @Slf4j
 public class RemoteFileServiceMock implements RemoteFileService {

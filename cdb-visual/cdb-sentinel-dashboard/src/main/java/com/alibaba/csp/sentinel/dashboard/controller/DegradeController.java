@@ -37,8 +37,8 @@ import java.util.List;
 /**
  * Controller regarding APIs of degrade rules. Refactored since 1.8.0.
  *
- * @author Carpenter Lee
- * @author Eric Zhao
+ *
+ *
  */
 @RestController
 @RequestMapping("/degrade")

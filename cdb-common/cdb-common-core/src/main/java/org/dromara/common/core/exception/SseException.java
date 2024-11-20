@@ -10,7 +10,7 @@ import java.io.Serial;
 /**
  * sse 特制异常
  *
- * @author LionLi
+ *
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

@@ -14,7 +14,7 @@ import static de.codecentric.boot.admin.server.domain.values.StatusInfo.*;
 /**
  * 自定义事件通知处理
  *
- * @author Lion Li
+ *
  */
 @Slf4j
 @Component

@@ -10,7 +10,7 @@ import java.util.Map;
 /**
  * RabbitTTL队列
  *
- * @author xbhog
+ *
  */
 @Configuration
 public class RabbitTtlQueueConfig {

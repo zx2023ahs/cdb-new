@@ -15,8 +15,8 @@ import jakarta.validation.constraints.Size;
 /**
  * 对象存储配置业务对象 sys_oss_config
  *
- * @author Lion Li
- * @author 孤舟烟雨
+ *
+ *
  * @date 2021-08-13
  */
 @Data

@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 社会化关系视图对象 sys_social
  *
- * @author thiszhc
+ *
  */
 @Data
 public class RemoteSocialVo implements Serializable {

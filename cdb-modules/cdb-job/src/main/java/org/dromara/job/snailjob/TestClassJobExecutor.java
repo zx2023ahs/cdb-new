@@ -6,8 +6,6 @@ import com.aizuda.snailjob.client.model.ExecuteResult;
 import org.springframework.stereotype.Component;
 
 /**
- * @author opensnail
- * @date 2024-05-17
  */
 @Component
 public class TestClassJobExecutor extends AbstractJobExecutor {

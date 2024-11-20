@@ -8,7 +8,7 @@ import org.springframework.core.env.ConfigurableEnvironment;
 /**
  * dubbo自定义负载均衡配置注入
  *
- * @author Lion Li
+ *
  */
 public class CustomEnvironmentPostProcessor implements EnvironmentPostProcessor, Ordered {
 

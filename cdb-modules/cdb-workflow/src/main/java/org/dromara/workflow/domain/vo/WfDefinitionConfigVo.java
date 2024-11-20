@@ -13,7 +13,7 @@ import java.io.Serializable;
 /**
  * 流程定义配置视图对象 wf_definition_config
  *
- * @author may
+ *
  * @date 2024-03-18
  */
 @Data

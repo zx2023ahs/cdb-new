@@ -26,7 +26,6 @@ import java.io.IOException;
 
 /**
  * XSS filter.
- * @author onewe
  */
 public class XssFilter extends OncePerRequestFilter {
 

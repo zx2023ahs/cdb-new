@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 需要在pom引入 cdb-api-workflow 模块 并解除下方代码注释
  * 然后提交请假申请即可看到监听器输出日志
  *
- * @author Lion Li
+ *
  */
 @Slf4j
 @RestController

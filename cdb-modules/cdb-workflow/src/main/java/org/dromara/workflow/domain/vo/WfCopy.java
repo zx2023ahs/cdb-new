@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 抄送
  *
- * @author may
+ *
  */
 @Data
 public class WfCopy implements Serializable {

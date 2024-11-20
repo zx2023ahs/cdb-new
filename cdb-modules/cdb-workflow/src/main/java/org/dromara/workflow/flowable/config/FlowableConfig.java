@@ -13,7 +13,7 @@ import java.util.Collections;
 /**
  * flowable配置
  *
- * @author may
+ *
  */
 @Configuration
 public class FlowableConfig implements EngineConfigurationConfigurer<SpringProcessEngineConfiguration> {

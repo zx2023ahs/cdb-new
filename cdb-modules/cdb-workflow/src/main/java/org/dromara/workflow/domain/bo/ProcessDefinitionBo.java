@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 流程定义请求对象
  *
- * @author may
+ *
  */
 @Data
 public class ProcessDefinitionBo implements Serializable {

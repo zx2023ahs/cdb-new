@@ -10,7 +10,7 @@ import org.dromara.system.api.RemoteUserService;
 /**
  * 用户昵称翻译实现
  *
- * @author may
+ *
  */
 @AllArgsConstructor
 @TranslationType(type = TransConstant.USER_ID_TO_NICKNAME)

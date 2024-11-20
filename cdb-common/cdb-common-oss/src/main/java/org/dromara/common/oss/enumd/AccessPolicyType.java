@@ -8,7 +8,6 @@ import software.amazon.awssdk.services.s3.model.ObjectCannedACL;
 /**
  * 桶访问策略配置
  *
- * @author 陈賝
  */
 @Getter
 @AllArgsConstructor

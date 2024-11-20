@@ -25,8 +25,6 @@ import java.util.List;
 /**
  * 启动定时任务
  *
- * @author dhb52
- * @since 2024/3/12
  */
 @AutoConfiguration
 @EnableConfigurationProperties(SnailJobServerProperties.class)

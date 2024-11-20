@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 租户服务
  *
- * @author zhujie
+ *
  */
 public interface RemoteTenantService {
 

@@ -13,7 +13,7 @@ import java.io.Serializable;
 /**
  * 节点配置视图对象 wf_node_config
  *
- * @author may
+ *
  * @date 2024-03-30
  */
 @Data

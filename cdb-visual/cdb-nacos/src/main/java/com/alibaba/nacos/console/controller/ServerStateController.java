@@ -41,7 +41,6 @@ import static com.alibaba.nacos.common.utils.StringUtils.WINDOWS_FOLDER_SEPARATO
 /**
  * Server state controller.
  *
- * @author xingxuechao on:2019/2/27 11:17 AM
  */
 @RestController
 @RequestMapping("/v1/console/server")

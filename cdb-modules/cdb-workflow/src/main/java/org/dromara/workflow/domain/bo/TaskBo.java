@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 任务请求对象
  *
- * @author may
+ *
  */
 @Data
 public class TaskBo implements Serializable {

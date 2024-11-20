@@ -10,7 +10,7 @@ import java.io.Serial;
 /**
  * 节点配置对象 wf_node_config
  *
- * @author may
+ *
  * @date 2024-03-30
  */
 @Data

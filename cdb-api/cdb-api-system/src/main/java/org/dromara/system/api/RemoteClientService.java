@@ -5,7 +5,7 @@ import org.dromara.system.api.domain.vo.RemoteClientVo;
 /**
  * 客户端服务
  *
- * @author Michelle.Chung
+ *
  */
 public interface RemoteClientService {
 

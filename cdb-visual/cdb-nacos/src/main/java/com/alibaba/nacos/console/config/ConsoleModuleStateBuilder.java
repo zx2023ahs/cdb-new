@@ -23,7 +23,6 @@ import com.alibaba.nacos.sys.utils.ApplicationUtils;
 /**
  * Console module state builder.
  *
- * @author xiweng.yy
  */
 public class ConsoleModuleStateBuilder implements ModuleStateBuilder {
 

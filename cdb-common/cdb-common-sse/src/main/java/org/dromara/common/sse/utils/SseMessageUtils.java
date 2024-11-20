@@ -10,7 +10,7 @@ import org.dromara.common.sse.dto.SseMessageDto;
 /**
  * SSE工具类
  *
- * @author Lion Li
+ *
  */
 @Slf4j
 @NoArgsConstructor(access = AccessLevel.PRIVATE)

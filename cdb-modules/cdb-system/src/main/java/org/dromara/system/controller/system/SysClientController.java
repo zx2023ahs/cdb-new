@@ -26,7 +26,7 @@ import java.util.List;
 /**
  * 客户端管理
  *
- * @author Michelle.Chung
+ *
  */
 @Validated
 @RequiredArgsConstructor

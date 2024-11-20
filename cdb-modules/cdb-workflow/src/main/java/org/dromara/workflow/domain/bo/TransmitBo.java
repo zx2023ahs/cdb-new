@@ -10,7 +10,7 @@ import java.io.Serializable;
 /**
  * 终转办务请求对象
  *
- * @author may
+ *
  */
 @Data
 public class TransmitBo implements Serializable {

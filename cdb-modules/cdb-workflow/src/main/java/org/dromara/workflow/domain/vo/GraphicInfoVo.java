@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 节点图形信息
  *
- * @author may
+ *
  */
 @Data
 public class GraphicInfoVo implements Serializable {

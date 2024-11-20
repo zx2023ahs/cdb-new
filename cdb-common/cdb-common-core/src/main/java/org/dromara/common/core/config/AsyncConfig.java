@@ -16,7 +16,7 @@ import java.util.concurrent.Executor;
  * <p>
  * 如果未使用虚拟线程则生效
  *
- * @author Lion Li
+ *
  */
 @AutoConfiguration
 public class AsyncConfig implements AsyncConfigurer {

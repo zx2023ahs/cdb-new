@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 获取并行网关执行后保留的执行实例数据
  *
- * @author may
+ *
  */
 public class ExecutionChildByExecutionIdCmd implements Command<List<ExecutionEntity>>, Serializable {
 

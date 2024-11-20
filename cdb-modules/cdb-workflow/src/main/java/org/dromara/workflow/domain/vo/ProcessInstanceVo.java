@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 流程实例视图
  *
- * @author may
+ *
  */
 @Data
 public class ProcessInstanceVo implements Serializable {

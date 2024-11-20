@@ -10,7 +10,7 @@ import java.io.Serializable;
 /**
  * 委派任务请求对象
  *
- * @author may
+ *
  */
 @Data
 public class DelegateBo implements Serializable {

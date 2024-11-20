@@ -5,7 +5,7 @@ import org.dromara.common.core.exception.ServiceException;
 /**
  * 邮件服务
  *
- * @author Lion Li
+ *
  */
 public interface RemoteMailService {
 

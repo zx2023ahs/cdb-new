@@ -6,7 +6,7 @@ import org.springframework.cloud.bus.jackson.RemoteApplicationEventScan;
 /**
  * bus 配置
  *
- * @author Lion Li
+ *
  */
 @AutoConfiguration
 @RemoteApplicationEventScan(basePackages = "${spring.cloud.bus.base-packages}")

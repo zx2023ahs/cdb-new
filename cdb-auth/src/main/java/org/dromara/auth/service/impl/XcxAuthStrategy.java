@@ -20,7 +20,7 @@ import org.springframework.stereotype.Service;
 /**
  * 邮件认证策略
  *
- * @author Michelle.Chung
+ *
  */
 @Slf4j
 @Service("xcx" + IAuthStrategy.BASE_NAME)

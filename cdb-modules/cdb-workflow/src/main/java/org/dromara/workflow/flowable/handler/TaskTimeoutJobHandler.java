@@ -14,7 +14,7 @@ import org.flowable.variable.api.delegate.VariableScope;
 /**
  * 办理超时(过期)任务
  *
- * @author may
+ *
  */
 public class TaskTimeoutJobHandler extends TimerEventHandler implements JobHandler {
 

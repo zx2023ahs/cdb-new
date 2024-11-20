@@ -12,7 +12,7 @@ import org.dromara.system.domain.SysPost;
 /**
  * 岗位信息业务对象 sys_post
  *
- * @author Michelle.Chung
+ *
  */
 
 @Data

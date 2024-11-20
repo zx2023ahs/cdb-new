@@ -13,7 +13,7 @@ import java.io.Serializable;
 /**
  * 表单管理视图对象 wf_form_manage
  *
- * @author may
+ *
  * @date 2024-03-29
  */
 @Data

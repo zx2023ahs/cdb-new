@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 参与者
  *
- * @author may
+ *
  */
 @Data
 public class ParticipantVo implements Serializable {

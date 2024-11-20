@@ -3,7 +3,7 @@ package org.dromara.resource.api;
 /**
  * 消息服务
  *
- * @author Lion Li
+ *
  */
 public interface RemoteMessageService {
 

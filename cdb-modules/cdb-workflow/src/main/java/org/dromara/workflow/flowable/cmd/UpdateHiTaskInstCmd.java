@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * 修改流程历史
  *
- * @author may
+ *
  */
 public class UpdateHiTaskInstCmd implements Command<Boolean> {
 

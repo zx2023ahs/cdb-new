@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * 附件上传
  *
- * @author may
+ *
  */
 public class AttachmentCmd implements Command<Boolean> {
 

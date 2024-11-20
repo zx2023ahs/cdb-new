@@ -30,7 +30,6 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Health ControllerV2.
  *
- * @author DiligenceLai
  */
 @RestController("consoleHealthV2")
 @RequestMapping("/v2/console/health")

@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 模型管理 服务层
  *
- * @author may
+ *
  */
 public interface IActModelService {
     /**

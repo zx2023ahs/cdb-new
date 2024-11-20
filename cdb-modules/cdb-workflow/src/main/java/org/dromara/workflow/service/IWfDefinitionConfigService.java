@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 流程定义配置Service接口
  *
- * @author may
+ *
  * @date 2024-03-18
  */
 public interface IWfDefinitionConfigService {

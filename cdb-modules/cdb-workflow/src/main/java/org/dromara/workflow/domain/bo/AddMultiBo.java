@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 加签参数请求
  *
- * @author may
+ *
  */
 @Data
 public class AddMultiBo implements Serializable {

@@ -21,7 +21,7 @@ import com.alibaba.csp.sentinel.slots.block.AbstractRule;
 import java.util.Date;
 
 /**
- * @author Eric Zhao
+ *
  * @since 0.2.1
  */
 public abstract class AbstractRuleEntity<T extends AbstractRule> implements RuleEntity {

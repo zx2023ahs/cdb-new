@@ -22,7 +22,7 @@ import static org.dromara.common.websocket.constant.WebSocketConstants.WEB_SOCKE
 /**
  * WebSocket工具类
  *
- * @author zendwang
+ *
  */
 @Slf4j
 @NoArgsConstructor(access = AccessLevel.PRIVATE)

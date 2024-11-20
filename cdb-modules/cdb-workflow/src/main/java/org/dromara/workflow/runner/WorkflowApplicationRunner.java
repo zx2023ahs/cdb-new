@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 /**
  * 初始化 dubbo 接口生成接口代理 不然无法直接用 SpringUtils 注入 dubbo 接口使用
  *
- * @author Lion Li
+ *
  */
 @Slf4j
 @RequiredArgsConstructor

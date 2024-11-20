@@ -6,8 +6,6 @@ import java.util.Map;
 /**
  * 通用 工作流服务
  *
- * @Author ZETA
- * @Date 2024/6/3
  */
 public interface RemoteWorkflowService {
 

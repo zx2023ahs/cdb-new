@@ -12,7 +12,7 @@ import jakarta.validation.constraints.*;
 /**
  * 流程定义配置业务对象 wf_form_definition
  *
- * @author may
+ *
  * @date 2024-03-18
  */
 @Data

@@ -20,7 +20,7 @@ import org.springframework.http.server.reactive.ServerHttpRequest;
 /**
  * [Sa-Token 权限认证] 拦截器
  *
- * @author Lion Li
+ *
  */
 @Configuration
 public class AuthFilter {

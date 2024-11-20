@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * 通用 工作流服务
  *
- * @author may
+ *
  */
 public interface WorkflowService {
 

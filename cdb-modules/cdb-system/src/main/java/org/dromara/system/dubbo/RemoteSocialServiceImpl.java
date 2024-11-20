@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * 社会化关系服务
  *
- * @author Michelle.Chung
+ *
  */
 @RequiredArgsConstructor
 @Service

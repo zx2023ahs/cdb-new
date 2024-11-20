@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 流程审批记录视图
  *
- * @author may
+ *
  */
 @Data
 public class ActHistoryInfoVo implements Serializable {

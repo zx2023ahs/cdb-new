@@ -21,7 +21,7 @@ import static org.dromara.workflow.common.constant.FlowConstant.NUMBER_OF_INSTAN
 /**
  * 串行减签
  *
- * @author may
+ *
  */
 @AllArgsConstructor
 public class DeleteSequenceMultiInstanceCmd implements Command<Void> {

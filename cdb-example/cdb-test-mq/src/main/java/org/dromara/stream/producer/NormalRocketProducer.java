@@ -9,7 +9,7 @@ import org.springframework.messaging.support.MessageBuilder;
 import org.springframework.stereotype.Component;
 
 /**
- * @author xbhog
+ *
  * @date 2024/06/01 16:49
  **/
 @Slf4j

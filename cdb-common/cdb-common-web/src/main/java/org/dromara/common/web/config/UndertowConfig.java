@@ -11,7 +11,7 @@ import org.springframework.core.task.VirtualThreadTaskExecutor;
 /**
  * Undertow 自定义配置
  *
- * @author Lion Li
+ *
  */
 @AutoConfiguration
 public class UndertowConfig implements WebServerFactoryCustomizer<UndertowServletWebServerFactory> {

@@ -33,7 +33,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
  * Use @SpringBootApplication and @ComponentScan at the same time, using CUSTOM type filter to control module enabled.
  * </p>
  *
- * @author nacos
  */
 @SpringBootApplication
 @ComponentScan(basePackages = "com.alibaba.nacos", excludeFilters = {

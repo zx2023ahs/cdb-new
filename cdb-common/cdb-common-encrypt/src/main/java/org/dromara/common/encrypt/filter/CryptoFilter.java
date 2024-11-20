@@ -22,7 +22,7 @@ import java.io.IOException;
 /**
  * Crypto 过滤器
  *
- * @author wdhcr
+ *
  */
 public class CryptoFilter implements Filter {
     private final ApiDecryptProperties properties;

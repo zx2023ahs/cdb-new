@@ -15,7 +15,7 @@ import org.dromara.system.domain.SysMenu;
 /**
  * 菜单权限业务对象 sys_menu
  *
- * @author Michelle.Chung
+ *
  */
 
 @Data

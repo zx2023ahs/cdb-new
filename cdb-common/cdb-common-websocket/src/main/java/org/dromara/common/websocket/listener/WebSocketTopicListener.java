@@ -11,7 +11,7 @@ import org.springframework.core.Ordered;
 /**
  * WebSocket 主题订阅监听器
  *
- * @author zendwang
+ *
  */
 @Slf4j
 public class WebSocketTopicListener implements ApplicationRunner, Ordered {

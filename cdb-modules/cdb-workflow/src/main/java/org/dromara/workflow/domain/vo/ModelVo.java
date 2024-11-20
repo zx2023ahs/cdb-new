@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 模型视图对象
  *
- * @author may
+ *
  */
 @Data
 public class ModelVo implements Serializable {

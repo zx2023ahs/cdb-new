@@ -34,7 +34,7 @@ import java.util.List;
 /**
  * 租户管理
  *
- * @author Michelle.Chung
+ *
  */
 @Validated
 @RequiredArgsConstructor

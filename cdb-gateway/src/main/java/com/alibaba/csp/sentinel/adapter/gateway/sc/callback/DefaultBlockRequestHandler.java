@@ -32,7 +32,7 @@ import static org.springframework.web.reactive.function.BodyInserters.fromObject
  * The default implementation of {@link BlockRequestHandler}.
  * Compatible with Spring WebFlux and Spring Cloud Gateway.
  *
- * @author Eric Zhao
+ *
  */
 public class DefaultBlockRequestHandler implements BlockRequestHandler {
 

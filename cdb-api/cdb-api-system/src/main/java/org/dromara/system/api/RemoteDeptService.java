@@ -3,7 +3,7 @@ package org.dromara.system.api;
 /**
  * 部门服务
  *
- * @author Lion Li
+ *
  */
 public interface RemoteDeptService {
 

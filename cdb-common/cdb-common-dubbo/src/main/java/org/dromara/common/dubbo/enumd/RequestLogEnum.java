@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 /**
  * 请求日志泛型
  *
- * @author Lion Li
+ *
  */
 @AllArgsConstructor
 public enum RequestLogEnum {

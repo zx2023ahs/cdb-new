@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 多实例信息
  *
- * @author may
+ *
  */
 @Data
 public class MultiInstanceVo implements Serializable {

@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * swagger 配置属性
  *
- * @author Lion Li
+ *
  */
 @Data
 @ConfigurationProperties(prefix = "springdoc")

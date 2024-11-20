@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 减签参数请求
  *
- * @author may
+ *
  */
 @Data
 public class DeleteMultiBo implements Serializable {

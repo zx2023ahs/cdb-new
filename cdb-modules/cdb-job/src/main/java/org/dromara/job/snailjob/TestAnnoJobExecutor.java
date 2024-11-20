@@ -8,8 +8,6 @@ import com.aizuda.snailjob.common.log.SnailJobLog;
 import org.springframework.stereotype.Component;
 
 /**
- * @author opensnail
- * @date 2024-05-17
  */
 @Component
 @JobExecutor(name = "testJobExecutor")

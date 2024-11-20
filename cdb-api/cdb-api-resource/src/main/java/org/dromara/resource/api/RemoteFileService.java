@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 文件服务
  *
- * @author Lion Li
+ *
  */
 public interface RemoteFileService {
 
