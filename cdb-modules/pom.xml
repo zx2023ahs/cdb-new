@@ -16,7 +16,7 @@
         <module>cdb-gen</module>
         <module>cdb-job</module>
         <module>cdb-resource</module>
-        <module>cdb-workflow</module>
+<!--        <module>cdb-workflow</module>-->
     </modules>
 
     <artifactId>cdb-modules</artifactId>
