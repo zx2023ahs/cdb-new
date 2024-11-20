@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>org.dromara</groupId>
+        <artifactId>cdb-cloud-plus</artifactId>
+        <version>${revision}</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>cdb-common-bom</module>
+        <module>cdb-common-alibaba-bom</module>
+        <module>cdb-common-log</module>
+        <module>cdb-common-dict</module>
+        <module>cdb-common-excel</module>
+        <module>cdb-common-core</module>
+        <module>cdb-common-redis</module>
+        <module>cdb-common-doc</module>
+        <module>cdb-common-security</module>
+        <module>cdb-common-satoken</module>
+        <module>cdb-common-web</module>
+        <module>cdb-common-mybatis</module>
+        <module>cdb-common-job</module>
+        <module>cdb-common-dubbo</module>
+        <module>cdb-common-seata</module>
+        <module>cdb-common-loadbalancer</module>
+        <module>cdb-common-oss</module>
+        <module>cdb-common-ratelimiter</module>
+        <module>cdb-common-idempotent</module>
+        <module>cdb-common-mail</module>
+        <module>cdb-common-sms</module>
+        <module>cdb-common-logstash</module>
+        <module>cdb-common-elasticsearch</module>
+        <module>cdb-common-sentinel</module>
+        <module>cdb-common-skylog</module>
+        <module>cdb-common-prometheus</module>
+        <module>cdb-common-translation</module>
+        <module>cdb-common-sensitive</module>
+        <module>cdb-common-json</module>
+        <module>cdb-common-encrypt</module>
+        <module>cdb-common-tenant</module>
+        <module>cdb-common-websocket</module>
+        <module>cdb-common-social</module>
+        <module>cdb-common-nacos</module>
+        <module>cdb-common-bus</module>
+        <module>cdb-common-sse</module>
+    </modules>
+
+    <artifactId>cdb-common</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+        cdb-common通用模块
+    </description>
+
+</project>
