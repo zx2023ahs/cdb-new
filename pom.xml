@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.dromara</groupId>
-    <artifactId>ruoyi-cloud-plus</artifactId>
+    <artifactId>cdb-cloud-plus</artifactId>
     <version>${revision}</version>
 
-    <name>RuoYi-Cloud-Plus</name>
+    <name>CDB-Cloud-Plus</name>
     <url>https://baidu.com</url>
     <description></description>
 
@@ -115,7 +115,7 @@
             <!-- SpringCloud Alibaba 微服务 -->
             <dependency>
                 <groupId>org.dromara</groupId>
-                <artifactId>ruoyi-common-alibaba-bom</artifactId>
+                <artifactId>cdb-common-alibaba-bom</artifactId>
                 <version>${revision}</version>
                 <type>pom</type>
                 <scope>import</scope>
@@ -149,7 +149,7 @@
             <!-- common 的依赖配置-->
             <dependency>
                 <groupId>org.dromara</groupId>
-                <artifactId>ruoyi-common-bom</artifactId>
+                <artifactId>cdb-common-bom</artifactId>
                 <version>${revision}</version>
                 <type>pom</type>
                 <scope>import</scope>
@@ -158,7 +158,7 @@
             <!-- api 的依赖配置-->
             <dependency>
                 <groupId>org.dromara</groupId>
-                <artifactId>ruoyi-api-bom</artifactId>
+                <artifactId>cdb-api-bom</artifactId>
                 <version>${revision}</version>
                 <type>pom</type>
                 <scope>import</scope>
@@ -375,13 +375,13 @@
     </dependencyManagement>
 
     <modules>
-        <module>ruoyi-auth</module>
-        <module>ruoyi-gateway</module>
-        <module>ruoyi-visual</module>
-        <module>ruoyi-modules</module>
-        <module>ruoyi-api</module>
-        <module>ruoyi-common</module>
-        <module>ruoyi-example</module>
+        <module>cdb-auth</module>
+        <module>cdb-gateway</module>
+        <module>cdb-visual</module>
+        <module>cdb-modules</module>
+        <module>cdb-api</module>
+        <module>cdb-common</module>
+        <module>cdb-example</module>
     </modules>
     <packaging>pom</packaging>
 
