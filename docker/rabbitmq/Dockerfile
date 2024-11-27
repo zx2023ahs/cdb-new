@@ -1,6 +1,6 @@
 FROM rabbitmq:3.13.3-management
 
-LABEL maintainer="Lion Li"
+LABEL maintainer="phph"
 
 ADD ./rabbitmq_delayed_message_exchange-3.13.0.ez /plugins
 
